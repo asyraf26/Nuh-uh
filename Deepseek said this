@@ -44,3 +44,8 @@ Then you can run it like:
 bash
 docker run --rm -v $(pwd):/work -w /work false2nah yourfile.txt
 Note: The -i flag in sed performs in-place editing, so make sure to back up your files or test this first.
+
+
+NOOOOO
+
+Docker is so hard :(
