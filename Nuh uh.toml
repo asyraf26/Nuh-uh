@@ -1,5 +1,5 @@
 [project]
-name = "example_package_27e31d54-9c0c-4eca-a28a-2766b97fe294"
+name = "example_package_CNECCC-CSY"
 version = "1.0.0"
 authors = [
   { name="CNECCC-CSY", email="s2023022@gm.cneccc.edu.hk" },
@@ -11,13 +11,11 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
+license = "WTFPL"
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
-
+Homepage = "https://github.com/CNECCC-CSY/Nuh-uh/"
+Issues = "https://github.com/CNECCC-CSY/Nuh-uh/issues"
 
 [build-system]
 requires = ["hatchling >= 1.26"]
